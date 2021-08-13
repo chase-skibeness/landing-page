@@ -36,7 +36,7 @@ main {
 }
 
 .headings {
-  color: #00B2CA;
+  color: #B8DBD9;
   padding: 0.75rem;
   font-family: 'Benne', serif;
   text-decoration: none;
@@ -52,6 +52,7 @@ main {
     flex-direction: column;
     margin-top: 7%;
     text-align: center;
+    color: #B8DBD9;
 }
 
 #link-section {
