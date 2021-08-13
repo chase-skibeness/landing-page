@@ -25,7 +25,7 @@ main {
 
 #welcome-section {
     margin: auto;
-    width: 75vw;
+    width: 65vw;
     height: 70vh;
     display: flex;
     flex-direction: column;
@@ -72,7 +72,7 @@ img {
         grid-template-rows: 1fr 1fr 1fr 1fr;
     }
     h1 {
-        font-size: 2rem;
+        font-size: 1.75rem;
     }
 
     h2 {
